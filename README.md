@@ -1,4 +1,4 @@
-#Project 1
+# Project 1
 
-##Action 1
-function prints hello world
+## Action 1
+  function prints hello world
